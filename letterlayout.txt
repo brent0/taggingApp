@@ -1,0 +1,92 @@
+<PARAGRAPH A>
+Ben Zisserson Snow Crab Technician 
+Department of Fisheries and Oceans
+Bedford Institute of Oceanography 
+P.O. Box 1006, Dartmouth, N.S. 
+B2Y4A2 
+Ph. (902) 222-5211
+
+</PARAGRAPH A>
+
+<PARAGRAPH mytagcapturedbutihavenoreturns>
+Dear <name>, 
+ 
+Thank you for participating in the tagging program. Although you did not capture any 
+tagged crab this season, crab that you had previously released were captured and information 
+sent in. This information is shown in a chart provided. I have included a token 
+of our appreciation for your efforts. Recaptures such as these will help us better track 
+the movement of crab across the Scotian shelf.  
+</PARAGRAPH mytagcapturedbutihavenoreturns>
+
+
+
+<PARAGRAPH B>
+Dear <name>, 
+ 
+Thanks for returning the snow crab <tag/tags> caught last season. I have included a token 
+of our appreciation for your efforts in returning this information. I have also 
+included a chart showing the release and recapture positions for the <tag/tags>.
+The information provided by such tagging recaptures is helpful in determining the movement 
+of snow crab throughout the Scotian Shelf. 
+</PARAGRAPH B>
+
+<PARAGRAPH info>
+The tagged crab you caught <was/were/wereall> tagged in the <yeartagged/yearstagged/season/seasons>.
+</PARAGRAPH info>
+
+<PARAGRAPH capturedbefore>
+<onebefore/somebefore> of the tagged crab you caught <wasb/wereb> captured before and released. Helpful
+knowledge is gained from captures such as these, especially if they are once again returned to the water. 
+The data for this is shown in the charts provided.
+</PARAGRAPH capturedbefore>
+
+<PARAGRAPH capturedafter>
+<oneafter/someafter> of the tagged crab you caught and released in the past <wasa/werea> captured this season. Thank you
+for releasing <this/these> crab. This knowledge is very helpful in tracking the movements of crab.
+The data for this is shown in the charts provided.
+</PARAGRAPH capturedafter>
+
+<PARAGRAPH notreleased>
+In the future, please release all tagged crab back to the water alive after 
+recording the tag number. This tag number can then be returned to DFO Science with the 
+relevant information such as date and location of capture. It will be treated in the same 
+manner as when we receive the actual tag. We hope that additional knowledge will be gained 
+by tracking subsequent recaptures of individual crab over time. 
+</PARAGRAPH notreleased>
+
+<PARAGRAPH released>
+Thank you for releasing all tagged crab back to the water alive after recording the tag 
+number and relevant information such as date and location of capture. The data you submitted
+will be treated in the same manner as when we receive the actual tag. We hope that additional
+knowledge will be gained by tracking subsequent recaptures of individual crab over time. 
+</PARAGRAPH released>
+
+<PARAGRAPH mixedrelret>
+Thank you for releasing some of the tagged crab back to the water. The relevant data that you 
+submit from these releases will be treated in the same manner as when we receive the actual tag. 
+We hope that additional knowledge will be gained by tracking subsequent recaptures of individual 
+crab over time. In the future, please release all tagged crab back to the water.  
+</PARAGRAPH mixedrelret>
+
+<PARAGRAPH unknownrel>
+From the data we have recieved it was unclear whether you released or retained the tagged crab.
+In the future please include this data along with the other relevant data. Our hope is that all 
+tagged crab will be released back to the water so that additional knowledge will be gained by 
+tracking subsequent recaptures of individual crab over time. 
+</PARAGRAPH unknownrel>
+
+
+<PARAGRAPH final>
+I have included a one page information sheet on our tagging program. On the reverse side of 
+this sheet is a form which can easily be used to record all required information on any 
+tagged crab you may catch in the future. This entire form can be mailed to DFO Science at 
+the end of the snow crab season. 
+</PARAGRAPH final>
+
+<PARAGRAPH end>
+Thanks for your help. 
+	
+	
+Ben Zisserson
+</PARAGRAPH end>
+

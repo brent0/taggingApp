@@ -371,13 +371,14 @@ int numpg = 0;
                 document.add(Chunk.NEXTPAGE);
                         
 
-        if((pagec & 1)== 0){
+        if((pagec & 1)!= 0){
                         document.add(Chunk.NEXTPAGE);
         }
         try{
           // PdfReader reader = new PdfReader(ret_sheet);
    
-       PdfReader reader = new PdfReader(PDFopps.class.getResource("/data/TagRet.pdf"));
+       //PdfReader reader = new PdfReader(PDFopps.class.getResource("/data/TagRet.pdf"));
+       PdfReader reader = new PdfReader("TagRet.pdf");
        PdfImportedPage page = writer.getImportedPage(reader, 1);
                 //add the page to the destination pdf
        cb.addTemplate(page, 0, 0);
